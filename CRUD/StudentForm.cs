@@ -79,18 +79,7 @@ namespace CRUD
             FormStudentInfo form = new FormStudentInfo();
             form.ShowDialog();
         }
-       
-      //  private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-       // {
-          //  if (comboBox1.SelectedItem != null)
-          //  {
-             //   string selectedYearLevel = comboBox1.SelectedItem.ToString();
-   
-          //  }
-       // }
-
-        //private void dateTimePicker1_ValueChanged(object sender, EventArgs e) {  DateTime selectedDate = dateTimePicker1.Value;
-           // dateTimePicker1.Format = DateTimePickerFormat.Custom; dateTimePicker1.CustomFormat = "MM dd yyyy";}
+     
 
         private void guna2ComboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
