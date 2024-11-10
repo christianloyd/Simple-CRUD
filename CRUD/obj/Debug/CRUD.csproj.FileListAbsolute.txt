@@ -1,0 +1,13 @@
+c:\users\ella\onedrive\desktop\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\CRUD.exe.config
+c:\users\ella\onedrive\desktop\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\CRUD.exe
+c:\users\ella\onedrive\desktop\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\CRUD.pdb
+c:\users\ella\onedrive\desktop\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\Guna.UI2.dll
+c:\users\ella\onedrive\desktop\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.FormStudentInfo.resources
+c:\users\ella\onedrive\desktop\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+c:\users\ella\onedrive\desktop\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.StudentForm.resources
+c:\users\ella\onedrive\desktop\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+c:\users\ella\onedrive\desktop\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.exe
+c:\users\ella\onedrive\desktop\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\Ella\OneDrive\Desktop\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Debug\MySql.Data.dll
+C:\Users\Ella\OneDrive\Desktop\Documents\Visual Studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+C:\Users\Ella\OneDrive\Desktop\Documents\Visual Studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.UpdateStudent.resources
